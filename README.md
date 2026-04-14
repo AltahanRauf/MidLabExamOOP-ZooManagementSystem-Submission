@@ -1,5 +1,5 @@
 # 🦁 Zoo Management System (Java OOP Project)
-# Complete Documentation of Submission and Mistakes Highlights.
+# Complete Documentation of Submission and Mistakes Highlight.
 
 ## 📌 Overview
 
